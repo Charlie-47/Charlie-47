@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Charlie-47
+- 👀 I’m interested in Computer Science, Piano, Reading and Listening music.
+- 🌱 I’m currently learning Golang backend dev.
+- 💞️ I’m looking to collaborate on uhh.
+- 📫 How to reach me -> charlieoy47@gmail.com
